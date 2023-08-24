@@ -1,4 +1,4 @@
-# Portfolio
+# Personal Portfolio
 
 This repository showcases my web development skills and my blogs. 💻✨
 
@@ -6,10 +6,10 @@ This repository showcases my web development skills and my blogs. 💻✨
 
 ### 🛠️ Technologies used
 
-- 🔥 Astro with React
-- 🎨 Tailwind CSS with aspect ratio and typography plugin
-- 🎉 TypeScript
-- 🎨 daisyUI
+-  Astro with React
+-  Tailwind CSS with aspect ratio and typography plugin
+-  TypeScript
+-  daisyUI
 
 ### Getting started
 
@@ -30,13 +30,13 @@ yarn dev
 Open http://localhost:3000 with your favorite browser to see your project.
 
 
-### 🚀 Deployment
+### Deployment
 
 The website is deployed and hosted on Netlify, providing a fast and reliable browsing experience. Feel free to explore the live version at [https://akhilgkrishnan.me](https://akhilgkrishnan.me)
 
-## 📬 Contact Me
+## Contact Me
 
-If you have any questions, collaboration opportunities, or just want to say hello, feel free to reach out to me at [https://linkedin.com/in/akhilgkrishnan](https://linkedin.com/in/akhilgkrishnan).
+If you have any questions, collaboration opportunities, or just want to say hello, feel free to reach out to me at [https://linkedin.com/in/punyahbaghla](https://www.linkedin.com/in/punyah-baghla-2b9ab3289/).
 
 ## License
 
