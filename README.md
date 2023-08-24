@@ -31,7 +31,7 @@ Open http://localhost:3000 with your favorite browser to see your project.
 
 ### Deployment
 
-The website is deployed and hosted on Netlify, providing a fast and reliable browsing experience. Feel free to explore the live version at [https://punyahbportfolio-punyahb.vercel.app/](https://punyahbportfolio-punyahb.vercel.app/)
+The website is deployed and hosted on Vercel, providing a fast and reliable browsing experience. Feel free to explore the live version at [https://punyahbportfolio-punyahb.vercel.app/](https://punyahbportfolio-punyahb.vercel.app/)
 
 
 ### Contact me:
