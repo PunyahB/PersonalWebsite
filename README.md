@@ -34,9 +34,22 @@ Open http://localhost:3000 with your favorite browser to see your project.
 
 The website is deployed and hosted on Netlify, providing a fast and reliable browsing experience. Feel free to explore the live version at [https://akhilgkrishnan.me](https://akhilgkrishnan.me)
 
-## Contact Me
 
-If you have any questions, collaboration opportunities, or just want to say hello, feel free to reach out to me at [https://linkedin.com/in/punyahbaghla](https://www.linkedin.com/in/punyah-baghla-2b9ab3289/).
+### Contact me:
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/punyah-baghla-2b9ab3289/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Punyah's LinkedIn Profile" height="30" width="30">
+  </a>
+
+
+  <a href="https://twitter.com/iamrockstar211">
+    <img src="https://cdn.svgporn.com/logos/twitter.svg" alt="Punyah's Twitter Profile" height="30" width="30">
+  </a>
+  
+</p>
+  
 
 ## License
 
