@@ -16,7 +16,7 @@ This repository showcases my web development skills and my blogs. 💻✨
 Run the following command on your local environment:
 
 ```bash
-git clone --depth=1 https://github.com/PunyahB/portfolio.git
+git clone --depth=1 https://github.com/PunyahB/PersonalWebsite.git
 cd my-project-name
 yarn install
 ```
