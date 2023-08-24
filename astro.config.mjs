@@ -7,7 +7,7 @@ import { astroImageTools } from 'astro-imagetools';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://akhilgkrishnan.me', // Use to generate your sitemap and canonical URLs in your final build.
+  site: 'https://punyahbportfolio-punyahb.vercel.app/', // Use to generate your sitemap and canonical URLs in your final build.
   trailingSlash: 'ignore',
   markdown: {
     shikiConfig: {

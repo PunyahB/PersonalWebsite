@@ -19,11 +19,11 @@ const Footer = () => (
           </a>
           and hosted on{' '}
           <a
-            href="https://netlify.com"
+            href="https://vercel.com"
             className="text-blue-400"
             target="_blank"
           >
-            Netlify 🌐
+            Vercel 🌐
           </a>
           .
         </div>
