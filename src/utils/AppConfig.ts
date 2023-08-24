@@ -1,14 +1,15 @@
 export const AppConfig = {
-  site_url: 'https://akhilgkrishnan.me',
-  site_name: 'Punyah Baghla | Full Stack Web Developer',
+  site_url: 'https://punyahbportfolio.vercel.app/',
+  site_name: 'Punyah Baghla | Student',
   title: 'Punyah Baghla',
   description:
-    'Explore the digital world through the eyes of Punyah Baghla, a passionate full stack web developer specializing in Rails and React. Dive into a collection of innovative projects, insightful coding techniques, and captivating open source contributions, showcasing a journey of creativity and expertise in the realm of web development.',
+    'Welcome to the personal website of Punyah Baghla, a student at Bhavans Rajaji Vidyashram.',
   keywords:
     'punyah, punyah, punyah baghla, portfolio, brv, activatecare, student, india, web developer',
   author: 'Punyah Baghla',
   locale_region: 'en-us',
   locale: 'en',
-  ogImage: 'https://akhilgkrishnan.me/profile-pic.png',
+  ogImage:
+    'https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png',
   twitter_handle: '@iamrockstar211',
 };
