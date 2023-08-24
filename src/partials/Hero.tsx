@@ -10,38 +10,22 @@ const Hero = () => (
     <HeroAvatar
       title={
         <>
-          Hi there, I'm <GradientText>Akhil G Krishnan</GradientText>{' '}
+          Hi there, I'm <GradientText>Punyah Baghla</GradientText>{' '}
           <span className="wave">👋</span>
         </>
       }
       description={
         <div className="mt-6 text-xl leading-9">
+          <p>I am a student at Bhavans Rajaji Vidyashram.</p>{' '}
           <p>
-            I am a Full Stack Developer with over 4+ years of experience in
-            application development.
-          </p>{' '}
-          <p>
-            Currently, I hold the position of{' '}
-            <strong>
-              Senior Software Developer at{' '}
-              <a
-                className="underline"
-                href="http://saeloun.com"
-                target="_blank"
-              >
-                Saeloun Inc.
-              </a>
-            </strong>
-            , where my primary focus is on building web applications using Ruby
-            on Rails, ReactJS, and NodeJS.
+            I am studying Computer Science with Physics, Chemistry, Mathematics,
+            and aim to pursue my higher studies in the United States.
           </p>{' '}
           <p>
             My typical day revolves around coding, staying updated with new
             technologies, engaging in continuous learning through books, and
-            actively contributing to open source projects. I also have a passion
-            for writing technical articles, sharing my knowledge with the
-            community, and mentoring aspiring developers to help them enhance
-            their skills and become better professionals.
+            involving myself in outdoor activities. I also have a passion
+            building projects that are impactful and meaningful.
           </p>
         </div>
       }
@@ -55,38 +39,23 @@ const Hero = () => (
       }
       socialButtons={
         <>
-          <a href="https://twitter.com/mrakhilg">
+          <a href="https://twitter.com/iamrockstar211">
             <HeroSocial
               src="/assets/images/social/twitter-icon.png"
               alt="Twitter icon"
             />
           </a>
-          <a href="https://facebook.com/akhilmnr">
-            <HeroSocial
-              src="/assets/images/social/facebook-icon.png"
-              alt="Facebook icon"
-            />
-          </a>
-          <a href="https://linkedin.com/in/akhilgkrishnan">
+          <a href="https://www.linkedin.com/in/punyah-baghla-2b9ab3289/">
             <HeroSocial
               src="/assets/images/social/linkedin-icon.png"
               alt="Linkedin icon"
             />
           </a>
-          <a href="https://instagram.com/akhilgkrishnan">
-            <HeroSocial
-              src="/assets/images/social/instagram-logo.png"
-              alt="Instagram icon"
-            />
-          </a>
-          <a href="https://github.com/akhilgkrishnan">
+          <a href="https://github.com/PunyahB">
             <HeroSocial
               src="/assets/images/social/github-logo.png"
               alt="Github icon"
             />
-          </a>
-          <a href="/rss.xml">
-            <HeroSocial src="/assets/images/social/rss.png" alt="RSS icon" />
           </a>
         </>
       }

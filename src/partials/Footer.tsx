@@ -9,7 +9,7 @@ const Footer = () => (
           © Copyright {new Date().getFullYear()} {AppConfig.author}.
         </div>
         <div>
-          Built with 🧡,{' '}
+          Built with{' '}
           <a
             href="https://astro.build"
             className="text-blue-400"

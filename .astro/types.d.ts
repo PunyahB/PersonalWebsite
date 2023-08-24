@@ -228,58 +228,9 @@ declare module 'astro:content' {
 } & { render(): Render[".md"] };
 };
 "project": {
-"censorlabel.md": {
-	id: "censorlabel.md";
-  slug: "censorlabel";
-  body: string;
-  collection: "project";
-  data: InferEntrySchema<"project">
-} & { render(): Render[".md"] };
-"chatwoot.md": {
-	id: "chatwoot.md";
-  slug: "chatwoot";
-  body: string;
-  collection: "project";
-  data: InferEntrySchema<"project">
-} & { render(): Render[".md"] };
-"gekay-real-estate.md": {
-	id: "gekay-real-estate.md";
-  slug: "gekay-real-estate";
-  body: string;
-  collection: "project";
-  data: InferEntrySchema<"project">
-} & { render(): Render[".md"] };
-"miru.md": {
-	id: "miru.md";
-  slug: "miru";
-  body: string;
-  collection: "project";
-  data: InferEntrySchema<"project">
-} & { render(): Render[".md"] };
-"rails.md": {
-	id: "rails.md";
-  slug: "rails";
-  body: string;
-  collection: "project";
-  data: InferEntrySchema<"project">
-} & { render(): Render[".md"] };
-"shortly.md": {
-	id: "shortly.md";
-  slug: "shortly";
-  body: string;
-  collection: "project";
-  data: InferEntrySchema<"project">
-} & { render(): Render[".md"] };
-"tooljet.md": {
-	id: "tooljet.md";
-  slug: "tooljet";
-  body: string;
-  collection: "project";
-  data: InferEntrySchema<"project">
-} & { render(): Render[".md"] };
-"univcontact.md": {
-	id: "univcontact.md";
-  slug: "univcontact";
+"website.md": {
+	id: "website.md";
+  slug: "website";
   body: string;
   collection: "project";
   data: InferEntrySchema<"project">
