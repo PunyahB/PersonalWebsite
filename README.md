@@ -2,8 +2,6 @@
 
 This repository showcases my web development skills and my blogs. 💻✨
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/97124aca-a646-43fb-998e-d808206fe9cd/deploy-status)](https://app.netlify.com/sites/akhilgk/deploys)
-
 ### 🛠️ Technologies used
 
 -  Astro with React
