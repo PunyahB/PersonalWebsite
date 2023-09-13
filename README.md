@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-This repository showcases my web development skills and my blogs. 💻✨
+This repository showcases my experience, resume and blogs. 
 
 ### 🛠️ Technologies used
 
